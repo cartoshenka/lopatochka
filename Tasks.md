@@ -1,7 +1,10 @@
 # Tasks
 -Make classes:\
 sort: method speed, other flexible filters and features for user\
-search: same things
+search: same things\
+random: for generating data structure (list) with flexible parammeters
+
+use in making classes templates 
 
 p.s. with class we can illustrate for example, speed of algorithm\
 like a only one method with handy dynamic parammeters,\
